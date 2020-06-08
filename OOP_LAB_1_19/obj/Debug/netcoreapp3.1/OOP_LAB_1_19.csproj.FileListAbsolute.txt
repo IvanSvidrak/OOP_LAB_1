@@ -1,0 +1,26 @@
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.exe
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.deps.json
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.runtimeconfig.json
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.runtimeconfig.dev.json
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.dll
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.pdb
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.csprojAssemblyReference.cache
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.csproj.CoreCompileInputs.cache
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.AssemblyInfoInputs.cache
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.AssemblyInfo.cs
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.dll
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.pdb
+C:\Users\svidr\source\repos\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.genruntimeconfig.cache
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.csprojAssemblyReference.cache
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.csproj.CoreCompileInputs.cache
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.AssemblyInfoInputs.cache
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.AssemblyInfo.cs
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.dll
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.pdb
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.exe
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.deps.json
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.runtimeconfig.json
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.runtimeconfig.dev.json
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.dll
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\bin\Debug\netcoreapp3.1\OOP_LAB_1_19.pdb
+C:\Users\svidr\Desktop\Лаби OOP\OOP_LAB_1_19\OOP_LAB_1_19\obj\Debug\netcoreapp3.1\OOP_LAB_1_19.genruntimeconfig.cache
